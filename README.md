@@ -1,10 +1,10 @@
-# bem vindo(a)
+# Bem vindo(a)
 ...
-- 👋 oi, eu sou @Gzamberlan-pastor-da-universal
-- 👀 estou interessado em desenvolver sites
-- 🌱 estou aprendendo javascript, CSS e HTML
-- 💞️ estou trabalhando nos projetos de pensamento computacional
-- 📫 você pode me encontrar no guilherme.zamberlan@escola.pr.gov.br
+- 👋 Oi, eu sou @Gzamberlan-pastor-da-universal
+- 👀 Estou interessado em desenvolver sites
+- 🌱 Estou aprendendo javascript, CSS e HTML
+- 💞️ Estou trabalhando nos projetos de pensamento computacional
+- 📫 Você pode me encontrar no guilherme.zamberlan@escola.pr.gov.br
 
 <!---
 Gzamberlan-pastor-da-universal/Gzamberlan-pastor-da-universal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
